@@ -7,25 +7,25 @@
   },
   {
     "name": "Nick",
-    "userImage": "https://picsum.photos/200?random=1",
+    "userImage": "https://picsum.photos/200?random=2",
     "content": "법률은 특별한 규정이 없는 한 공포한 날로부터 20일을 경과함으로써 효력을 발생한다. 국가는 농수산물의 수급균형과 유통구조의 개선에 노력하여 가격안정을 도모함으로써 농·어민의 이익을 보호한다.",
     "position": "supervisor"
   },
   {
     "name": "Harry",
-    "userImage": "https://picsum.photos/200?random=1",
+    "userImage": "https://picsum.photos/200?random=3",
     "content": "국회의원과 정부는 법률안을 제출할 수 있다. 국회가 재적의원 과반수의 찬성으로 계엄의 해제를 요구한 때에는 대통령은 이를 해제하여야 한다. 전직대통령의 신분과 예우에 관하여는 법률로 정한다.",
     "position": "staff"
   },
   {
     "name": "John",
-    "userImage": "https://picsum.photos/200?random=1",
+    "userImage": "https://picsum.photos/200?random=4",
     "content": "국교는 인정되지 아니하며, 종교와 정치는 분리된다. 대법원과 각급법원의 조직은 법률로 정한다. 여자의 근로는 특별한 보호를 받으며, 고용·임금 및 근로조건에 있어서 부당한 차별을 받지 아니한다.",
     "position": "staff"
   },
   {
     "name": "Granger",
-    "userImage": "https://picsum.photos/200?random=1",
+    "userImage": "https://picsum.photos/200?random=5",
     "content": "근로조건의 기준은 인간의 존엄성을 보장하도록 법률로 정한다. 한 회계연도를 넘어 계속하여 지출할 필요가 있을 때에는 정부는 연한을 정하여 계속비로서 국회의 의결을 얻어야 한다.",
     "position": "staff"
   }
