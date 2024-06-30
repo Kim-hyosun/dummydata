@@ -4,41 +4,41 @@
     "title": "Flowey",
     "content": "only 5 inches",
     "price": 120000,
-    "imgUrl": "https://picsum.photos/600?random=1"
+    "imgUrl": "https://picsum.photos/600?random=3"
   },
   {
     "id": 4,
     "title": "Baby shoes",
     "content": "for less than 6",
     "price": 120000,
-    "imgUrl": "https://picsum.photos/600?random=1"
+    "imgUrl": "https://picsum.photos/600?random=4"
   },
   {
     "id": 5,
     "title": "Red Herring",
     "content": "Born in France",
     "price": 120000,
-    "imgUrl": "https://picsum.photos/600?random=1"
+    "imgUrl": "https://picsum.photos/600?random=5"
   },
   {
     "id": 6,
     "title": "Sijang",
     "content": "from Dongmyo station",
     "price": 120000,
-    "imgUrl": "https://picsum.photos/600?random=1"
+    "imgUrl": "https://picsum.photos/600?random=6"
   },
   {
     "id": 7,
     "title": "Tag gari",
     "content": "ali and taobao",
     "price": 120000,
-    "imgUrl": "https://picsum.photos/600?random=1"
+    "imgUrl": "https://picsum.photos/600?random=7"
   },
   {
     "id": 8,
     "title": "Flyer",
     "content": "Refund not available",
     "price": 120000,
-    "imgUrl": "https://picsum.photos/600?random=1"
+    "imgUrl": "https://picsum.photos/600?random=8"
   }
 ]
